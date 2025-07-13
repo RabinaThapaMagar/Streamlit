@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+##auta command run gare paxi yo mathiko sabai afai import hunxa
+##ie epip install -r requirements.txt
